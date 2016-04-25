@@ -1,1 +1,0 @@
-Utworzyć program serwera udostępniającego dwie kolejki komunikatów: wejściową i wyjściową oraz program klienta przesyłającego pojedyncze zapytanie z PID-em swojego procesu jako identyfikatorem komunikatu, a następnie odbierającego odpowiedź z drugiej kolejki.
